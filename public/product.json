@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 49.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 79.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "4K Ultra HD Action Camera",
+      "price": 119.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Portable Power Bank 20000mAh",
+      "price": 34.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Wireless Earbuds",
+      "price": 29.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "price": 19.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "price": 59.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gaming Mouse",
+      "price": 24.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "LED Desk Lamp",
+      "price": 39.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    },
+    {
+      "id": 10,
+      "name": "1080p Webcam",
+      "price": 45.99,
+      "img": "https://i.ibb.co.com/2qBwZsV/Microsoft-Surface-Laptop-4.jpg"
+    }
+  ]
+  
