@@ -1,10 +1,10 @@
-import React from 'react'
+// import React from 'react'
 
-const Product = ({cart}) => {
+// const Product = ({cart}) => {
 
-  return (
-    <div>{cart.length}</div>
-  )
-}
+//   return (
+//     <div>{cart.length}</div>
+//   )
+// }
 
-export default Product
+// export default Product

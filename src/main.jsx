@@ -9,6 +9,8 @@ import Root from './Component/Root'
 import Dashboard from './Component/New/Dashboard'
 import Statistics from './Component/New/Statistics'
 import Home from './Component/New/Home'
+import BecomeASeller from './Component/New/BecomeASeller'
+
 
 
 const router = createBrowserRouter([
@@ -27,7 +29,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics/>
-      }
+      },
+      {
+        path: "/becomeASeller",
+        element: <BecomeASeller/>
+      },
     ]
   }
 ])

@@ -1,10 +1,11 @@
 import React, { useContext, useEffect, useState } from 'react'
-import Product from './Product'
+// import Product from './Product'
 import { Contex } from './ContexApi/Contex'
 
 const Products = () => {
 
-    const {addToCart} = useContext(Contex)
+    const {firebaseInfo} = useContext(Contex)
+    const {addToCart} = firebaseInfo
 
     const [products, setProducts] = useState([])
   
